@@ -1,10 +1,7 @@
 # Papers
-# Reasoning Regimes as Attractor Basins
+# Papers
 
-A synthesis of HRIS Validation Studies I–IV exploring how repeated interaction patterns may stabilize inference trajectories into compatible reasoning regimes within transformer latent space.
+- [Reasoning Regimes as Attractor Basins](reasoning-regimes-as-attractor-basins.md)
 
-## Links
-
-- DOI:https://zenodo.org/records/19582752
-- PhilArchive: https://philpapers.org/rec/HUDRRA-6
+- [The Geometry of Signature-Induced Regimes](geometry-of-signature-induced-regimes.md)
 
