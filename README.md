@@ -10,33 +10,8 @@ Research on long horizon human AI interaction, reconstructive continuity, semant
 
 ## Start Here
 
-- Introductory Overview
-- Core Concepts
-- Publications
-- Visual Models
+- [Introduction](start-here/)
+- [Core Concepts](concepts/)
+- [Papers](papers/)
+- [Diagrams](diagrams/)
 
----
-
-## Core Concepts
-
-- HRIS
-- SIBR
-- Reconstructive Continuity
-- Weighted Basin Entry
-- Interaction Regimes
-- Epistemic Closure
-
----
-
-## Publications
-
-Coming soon.
-
----
-
-## External Links
-
-- Zenodo
-- PhilArchive
-- Substack
-- X/Twitter
