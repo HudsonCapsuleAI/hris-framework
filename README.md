@@ -3,7 +3,8 @@
 **Human Recursive Information System (HRIS)** is a research program on long-horizon human–AI interaction, reconstructive continuity, semantic trajectory stabilization, and interaction-shaped inference regimes.
 
 **Website:** [hrisresearch.org](https://hrisresearch.org)  
-**Researcher:** Justin Hudson, DPM
+**Researcher:** Justin Hudson, DPM  
+**Profiles:** [Google Scholar](https://scholar.google.com/scholar?q=%22Justin+Hudson%22+%22DPM%22) · [ResearchGate](https://www.researchgate.net/profile/Justin-Hudson-3)
 
 ## Explore HRIS
 
