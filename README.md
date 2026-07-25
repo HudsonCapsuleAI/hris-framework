@@ -4,7 +4,7 @@
 
 **Website:** [hrisresearch.org](https://hrisresearch.org)  
 **Researcher:** Justin Hudson, DPM  
-**Profiles:** [Google Scholar](https://scholar.google.com/scholar?q=%22Justin+Hudson%22+%22DPM%22) · [ResearchGate](https://www.researchgate.net/profile/Justin-Hudson-3)
+**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=9hnoq84AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Justin-Hudson-3)
 
 ## Explore HRIS
 
