@@ -5,6 +5,14 @@
 **Website:** [hrisresearch.org](https://hrisresearch.org)  
 **Researcher:** Justin Hudson, DPM
 
+## Explore HRIS
+
+- **New to the project?** Follow the [guided introduction and reading paths](start-here/).
+- **Looking for the research?** Browse the [complete 40-paper index](papers/).
+- **Want the visual overview?** Explore the [framework diagrams](diagrams/).
+- **Using HRIS in your work?** See the repository's [citation metadata](CITATION.cff).
+
+
 ## Central claim
 
 HRIS treats the interaction—not the isolated human or model—as the relevant unit of analysis. Across recursive exchange, goals, corrections, values, boundaries, and interpretive habits can organize a recognizable behavioral regime without requiring model weight updates, a hidden persistent identity, or a claim of consciousness.
@@ -56,11 +64,7 @@ The framework asks whether:
 
 ## Citation
 
-Until a formal `CITATION.cff` file is added, cite the project as:
-
-> Hudson, Justin. *HRIS Framework: Human Recursive Information System*. GitHub, https://github.com/HudsonCapsuleAI/hris-framework
-
-Individual papers should be cited using their publication records linked from [hrisresearch.org](https://hrisresearch.org).
+Use GitHub's **Cite this repository** control or download [CITATION.cff](CITATION.cff) for project-level citation metadata. Cite individual papers using the publication records in the [complete paper index](papers/).
 
 ## Project status
 
