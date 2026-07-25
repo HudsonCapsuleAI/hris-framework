@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use the HRIS Framework in your work, please cite this repository and the relevant individual papers."
+title: "HRIS Framework: Human Recursive Information System"
+type: software
+authors:
+  - family-names: Hudson
+    given-names: Justin
+    name-suffix: DPM
+repository-code: "https://github.com/HudsonCapsuleAI/hris-framework"
+url: "https://hrisresearch.org"
+abstract: >-
+  An evolving research framework and archive on long-horizon human–AI interaction,
+  reconstructive continuity, semantic trajectory stabilization, interactional shorthand,
+  and signature-induced behavioral regimes.
+keywords:
+  - human-AI interaction
+  - longitudinal interaction
+  - reconstructive continuity
+  - reasoning regimes
+  - trajectory stabilization
+  - agentic AI governance
+license: "All rights reserved"
