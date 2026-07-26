@@ -26,7 +26,7 @@ HRIS may be useful to researchers and practitioners working in human–AI intera
 - **Looking for the research?** Browse the [complete 40-paper index](papers/).
 - **Want the visual overview?** Explore the [framework diagrams](diagrams/).
 - **Using HRIS in your work?** See the repository's [citation metadata](CITATION.cff).
-- **Ran the starter experiment?** [Share a result or null result](https://github.com/HudsonCapsuleAI/hris-framework/issues/new/choose).
+- **Ran the starter experiment?** [Share a result or null result](https://github.com/HudsonCapsuleAI/hris-framework/issues/new?template=experiment-result.md).
 - **Want to help others find it?** Use the [responsible sharing guide](SHARING.md).
 
 ## Central claim
