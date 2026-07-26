@@ -1,7 +1,7 @@
 name: Share an HRIS experiment result
 description: Report a replication, adaptation, negative result, or null result
 title: "[Experiment]: "
-labels: ["experiment-result"]
+labels: []
 body:
   - type: markdown
     attributes:
