@@ -12,6 +12,8 @@
 
 ### [Open the free HRIS Research Starter Kit →](starter-kit/)
 
+[Download the latest release](https://github.com/HudsonCapsuleAI/hris-framework/releases/latest) · [Download v1.0 as ZIP](https://github.com/HudsonCapsuleAI/hris-framework/archive/refs/tags/v1.0.0.zip)
+
 The kit includes a guided two-condition experiment, an observation worksheet, a reusable results template, citation guidance, and links to the core framework diagrams. No programming is required.
 
 ## Who this is for
@@ -25,6 +27,7 @@ HRIS may be useful to researchers and practitioners working in human–AI intera
 - **Want the visual overview?** Explore the [framework diagrams](diagrams/).
 - **Using HRIS in your work?** See the repository's [citation metadata](CITATION.cff).
 - **Ran the starter experiment?** [Share a result or null result](https://github.com/HudsonCapsuleAI/hris-framework/issues/new/choose).
+- **Want to help others find it?** Use the [responsible sharing guide](SHARING.md).
 
 ## Central claim
 
@@ -79,6 +82,7 @@ Replications, critiques, adaptations, negative results, and null results are wel
 - `concepts/` — definitions and conceptual framework
 - `papers/` — research papers and related materials
 - `diagrams/` — visual explanations of the framework
+- `SHARING.md` — copy-ready descriptions and a sustainable visibility checklist
 
 ## Citation
 
