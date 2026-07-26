@@ -1,6 +1,6 @@
 # HRIS Framework
 
-**Human Recursive Information System (HRIS)** is a research program on long-horizon human–AI interaction, reconstructive continuity, semantic trajectory stabilization, and interaction-shaped inference regimes.
+**Human Recursive Information System (HRIS)** is an open research framework for studying long-horizon human–AI interaction, interaction-shaped behavior, reconstructive continuity, semantic trajectory stabilization, and reusable conversational shorthand in large language models.
 
 **Website:** [hrisresearch.org](https://hrisresearch.org)  
 **Researcher:** Justin Hudson, DPM  
@@ -10,9 +10,13 @@
 
 **Run your first trajectory-reconstruction experiment in approximately 20–30 minutes.**
 
-[Open the free HRIS Research Starter Kit →](starter-kit/)
+### [Open the free HRIS Research Starter Kit →](starter-kit/)
 
 The kit includes a guided two-condition experiment, an observation worksheet, a reusable results template, citation guidance, and links to the core framework diagrams. No programming is required.
+
+## Who this is for
+
+HRIS may be useful to researchers and practitioners working in human–AI interaction, human–computer interaction, large language models, generative AI, prompt engineering, AI alignment, longitudinal collaboration, conversational interfaces, and open science.
 
 ## Explore HRIS
 
@@ -20,6 +24,7 @@ The kit includes a guided two-condition experiment, an observation worksheet, a 
 - **Looking for the research?** Browse the [complete 40-paper index](papers/).
 - **Want the visual overview?** Explore the [framework diagrams](diagrams/).
 - **Using HRIS in your work?** See the repository's [citation metadata](CITATION.cff).
+- **Ran the starter experiment?** [Share a result or null result](https://github.com/HudsonCapsuleAI/hris-framework/issues/new/choose).
 
 ## Central claim
 
@@ -62,6 +67,10 @@ The framework asks whether:
 2. Recovered trajectories remain stable under changes in wording, domain, task, or model.
 3. Interaction history explains reconstruction better than the same cue presented without that history.
 4. Longitudinal human–model interaction can be studied through measurable constraint and trajectory dynamics.
+
+## Participate
+
+Replications, critiques, adaptations, negative results, and null results are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for ways to participate while protecting private conversation data and clearly documenting experimental conditions.
 
 ## Repository structure
 
