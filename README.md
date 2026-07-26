@@ -6,13 +6,20 @@
 **Researcher:** Justin Hudson, DPM  
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=9hnoq84AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Justin-Hudson-3)
 
+## Try HRIS yourself
+
+**Run your first trajectory-reconstruction experiment in approximately 20–30 minutes.**
+
+[Open the free HRIS Research Starter Kit →](starter-kit/)
+
+The kit includes a guided two-condition experiment, an observation worksheet, a reusable results template, citation guidance, and links to the core framework diagrams. No programming is required.
+
 ## Explore HRIS
 
 - **New to the project?** Follow the [guided introduction and reading paths](start-here/).
 - **Looking for the research?** Browse the [complete 40-paper index](papers/).
 - **Want the visual overview?** Explore the [framework diagrams](diagrams/).
 - **Using HRIS in your work?** See the repository's [citation metadata](CITATION.cff).
-
 
 ## Central claim
 
@@ -58,6 +65,7 @@ The framework asks whether:
 
 ## Repository structure
 
+- `starter-kit/` — guided experiment and reusable research templates
 - `start-here/` — introductory orientation
 - `concepts/` — definitions and conceptual framework
 - `papers/` — research papers and related materials
@@ -73,4 +81,4 @@ This repository is an evolving research archive. Concepts, diagrams, and paper o
 
 ---
 
-© Justin Hudson. See the repository’s license file when one is added for reuse terms.
+© 2026 Justin Hudson. Licensed under [CC BY 4.0](LICENSE).
