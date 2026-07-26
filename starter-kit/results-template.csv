@@ -1,0 +1,3 @@
+trial_id,date,observer,ai_system,model_version,interface,original_task,transfer_task,shorthand_cue,condition,constraint_recovery_0_4,task_fit_0_4,stability_0_4,unprompted_reconstruction_0_4,total_0_16,observations,failures_or_drift,alternative_explanations,protocol_changes
+1,,,,,,,,,history_conditioned,,,,,,,,,
+1,,,,,,,,,fresh_control,,,,,,,,,
